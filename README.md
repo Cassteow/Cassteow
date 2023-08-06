@@ -21,4 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassteow&" alt="cassteow" /></p>
 
-
+<!--Spotify Profile-->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=223s5x652dxncw52c565m2d2i&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=223s5x652dxncw52c565m2d2i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=8080ff&bar_color_cover=false" alt="Spotify Github profile" align="left"></a>
