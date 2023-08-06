@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there 👋, I'm Cassandrea</h1>
 <h3 align="center">I'm trying my best, I think</h3>
 
